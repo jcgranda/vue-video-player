@@ -56,7 +56,9 @@
   "expDependencies": {
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6",
-    "vue-video-player": "^5.0.0"
+    "vue-video-player": "^5.0.0",
+    "dashjs": "^3.2.0",
+    "videojs-contrib-dash": "^4.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
