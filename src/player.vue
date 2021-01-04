@@ -9,6 +9,8 @@
 <script>
   // lib
   import _videojs from 'video.js'
+  import 'dashjs'
+  import 'videojs-contrib-dash'
   const videojs = window.videojs || _videojs
 
   // pollfill
